@@ -11,7 +11,7 @@ This project is a **Flask-based web application** that allows users to register 
 
 ## 🏗️ Architecture
 
-![alt text](Pic%200.png)
+![alt text](<Readme/Pic%200.png>)
 
 ---
 
@@ -254,34 +254,34 @@ pipeline {
 ## 📸 Screenshots
 
 ### 1. AWS EC2 Instances — Both Running
-![EC2 Instances](Readme/Pic 0.png)
+![EC2 Instances](<Readme/Pic 1.png>)
 
 ### 2. Jenkins Dashboard — Pipeline Success
-![Jenkins Dashboard](Pic%202.png)
+![Jenkins Dashboard](<Readme/Pic 2.png>)
 
 ### 3. Jenkins Build History — Multiple Successful Builds
-![Build History](Pic%203.png)
+![Build History](<Readme/Pic%203.png>)
 
 ### 4. Jenkins Console Output — Deployment Successful
-![Console Output](Pic%204.png)
+![Console Output](<Readme/Pic%204.png>)
 
 ### 5. Jenkins Trigger — GitHub Hook Configured
-![Jenkins Trigger](Pic%205.png)
+![Jenkins Trigger](<Readme/Pic%205.png>)
 
 ### 6. GitHub Repository
-![GitHub Repo](Pic%206.png)
+![GitHub Repo](<Readme/Pic%206.png>)
 
 ### 7. GitHub Webhook — Last Delivery Successful
-![GitHub Webhook](Pic%207.png)
+![GitHub Webhook](<Readme/Pic%207.png>)
 
 ### 8. Student Registration Form
-![Registration Form](Pic%208.png)
+![Registration Form](<Readme/Pic%208.png>)
 
 ### 9. Form Validation Working
-![Form Validation](Pic%209.png)
+![Form Validation](<Readme/Pic%209.png>)
 
 ### 10. Registered Students List
-![Students List](Pic%2010.png)
+![Students List](<Readme/Pic%2010.png>)
 
 ---
 
